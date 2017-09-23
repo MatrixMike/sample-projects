@@ -2,7 +2,7 @@ package somepackage;
 
 import org.bytedeco.javacpp.*;
 import org.bytedeco.javacpp.annotation.*;
-
+err
 @Platform(include="somepackage/MultiplyDemo.h")
 public class MultiplyDemo {
 
